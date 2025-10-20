@@ -1,0 +1,24 @@
+[FATAL][log.go:47]2025/10/19 20:23:00 login success, uid: 0000000001, username: %!s(MISSING)
+[FATAL][log.go:47]2025/10/19 20:25:39 login success, uid: 0000000001, username: %!s(MISSING)
+[ERROR][auth.go:48]2025/10/19 20:27:35 Error 1054: Unknown column 'uid' in 'field list'
+[FATAL][log.go:47]2025/10/19 20:34:08 login success, uid: 0000000001, username: %!s(MISSING)
+[FATAL][log.go:47]2025/10/19 20:38:01 login success, uid: 0000000001
+[FATAL][log.go:54]2025/10/19 21:10:04 login param missing: uid=, password=
+[FATAL][log.go:47]2025/10/19 21:11:19 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:13:25 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:15:36 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:19:27 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:21:07 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:21:56 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:23:07 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:29:28 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:37:46 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:42:48 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:48:09 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:51:07 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:57:50 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 21:59:41 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 22:09:16 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 22:16:42 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 22:55:15 login success, uid: 0000000001
+[FATAL][log.go:47]2025/10/19 22:56:01 login success, uid: 0000000001

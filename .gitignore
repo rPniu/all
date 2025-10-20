@@ -1,0 +1,6 @@
+*.log
+
+*.ini
+
+/.vscode
+/.idea
